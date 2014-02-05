@@ -1,3 +1,7 @@
+
+If you are user.You should download this app from play store.
+https://play.google.com/store/apps/details?id=net.pushl.whereis
+
 "Where is my Phone and Watch?" is application to search and find your phone or smartwatch!
 You can vibrate or alarm your phone from watch.
 Also,vibrate your watch from phone.
